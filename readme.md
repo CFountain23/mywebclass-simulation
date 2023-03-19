@@ -61,5 +61,5 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 - Sprint 3 - Building a CMS
 - Sprint 4 - TBD
 
-link src/content.html
+[content page](src/content.html)
 # ADD YOUR PROJECT LINKS BELOW THIS 
