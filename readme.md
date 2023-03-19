@@ -57,7 +57,7 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 - [Project 1 - Sprint 1 - Sprint One - Episode 1](sprint_1.md)
 
 ## Coming Attractions:
-- Sprint 2 - Designing for Growth
+- Sprint 2 - Designing for Growth(test)
 - Sprint 3 - Building a CMS
 - Sprint 4 - TBD
 
